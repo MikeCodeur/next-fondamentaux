@@ -14,7 +14,7 @@
     "next": "15.2.3"
   },
   "devDependencies": {
-    "@mikecodeur/course-app-cli": "1.0.8",
+    "@mikecodeur/course-app-cli": "1.0.23",
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "19.0.11",
